@@ -1,2 +1,2 @@
 # SendMailAspNetCore
-Send Email with Asp.Net Core
+Simple Send Email with Asp.Net Core
